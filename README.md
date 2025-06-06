@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Hey, I'm Hernán
 
-<!--
-**hernan941/hernan941** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently working with **Python**, building APIs using **FastAPI** — clean, modular, and focused on the backend side of things.
 
-Here are some ideas to get you started:
+Lately, I’ve been diving into **Go (Golang)** to expand my backend toolkit. I’m drawn to its simplicity and performance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I care about writing code that’s maintainable, efficient, and does what it’s supposed to do without overcomplicating things.
+
+
+### 🧰 Tech I use or explore often
+
+- **Python** (FastAPI, SQLModel, Celery)
+- **Go**
+- **PostgreSQL**, **Redis**, **Docker**
+- **AWS** (ECS, EC2, RDS, S3)
+- **JS/TypeScript + React** for UI work
+
+---
+
+This GitHub is a mix of experiments, side projects, and things I'm learning along the way.
