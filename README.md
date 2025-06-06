@@ -7,7 +7,7 @@ Lately, I’ve been diving into **Go (Golang)** to expand my backend toolkit. I�
 I care about writing code that’s maintainable, efficient, and does what it’s supposed to do without overcomplicating things.
 
 
-### 🧰 Tech I use often
+### 🧑‍💻 Tech I use often
 
 - **Python** (FastAPI, SQLModel, Celery)
 - **Go**
