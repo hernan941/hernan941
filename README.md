@@ -10,6 +10,7 @@ I care about writing code that’s maintainable, efficient, and does what it’s
 ### 🧑‍💻 Tech I use often
 
 - **Python** (FastAPI, SQLModel, Celery)
+- **Node.js** (Express, Nestjs)
 - **Go**
 - **PostgreSQL**, **Redis**, **Docker**
 - **AWS** (ECS, EC2, RDS, S3)
