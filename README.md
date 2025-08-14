@@ -19,3 +19,5 @@ I care about writing code that’s maintainable, efficient, and does what it’s
 ---
 
 This GitHub is a mix of experiments, side projects, and things I'm learning along the way.
+
+Visita mi portafolio en línea — **[SOLOHERNAN](https://hernan941.github.io/resume/)** — donde encontrarás mi trayectoria profesional, proyectos destacados y habilidades como ingeniero, todo presentado de manera clara y personal.
