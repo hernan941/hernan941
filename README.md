@@ -11,13 +11,13 @@ I care about writing code that’s maintainable, efficient, and does what it’s
 
 - **Python** (FastAPI, SQLModel, Celery)
 - **Node.js** (Express, Nestjs)
-- **Go**
 - **PostgreSQL**, **Redis**, **Docker**
 - **AWS** (ECS, EC2, RDS, S3)
 - **JS/TypeScript + React** for UI work
+- **Go**
 
 ---
 
 This GitHub is a mix of experiments, side projects, and things I'm learning along the way.
 
-Visita mi portafolio en línea — **[SOLOHERNAN](https://hernan941.github.io/resume/)** — donde encontrarás mi trayectoria profesional, proyectos destacados y habilidades como ingeniero, todo presentado de manera clara y personal.
+Visita mi portafolio en línea — **[SOLOHERNAN](https://hernan941.github.io/resume/)**.
