@@ -12,11 +12,11 @@ Software engineer based in Santiago, Chile. I got into programming through video
 
 **Python** (Django, FastAPI) · **TypeScript** (React, backend) · **PostgreSQL** · **Docker** · **AWS** · **Claude Code**
 
-### Latest on the blog
+### From the blog
 
-- [Sobre el aprendizaje](https://hernan941.com) — Oct 2026
-- [The market is F++](https://hernan941.com) — Oct 2026
-- [Lo que no va a reemplazar la IA](https://hernan941.com) — Jul 2026
+- [Transacciones y Concurrencia: lo que deberías saber](https://hernan941.com/posts/concurrencia/)
+- [Docker 101: contenedores, kernel y capas](https://hernan941.com/posts/docker101/)
+- [Lo que no va a reemplazar la IA](https://hernan941.com/posts/lo-que-no-va-a-reemplazar-la-ia/)
 
 ---
 
