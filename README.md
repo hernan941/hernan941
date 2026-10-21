@@ -14,9 +14,9 @@ Software engineer based in Santiago, Chile. I got into programming through video
 
 ### From the blog
 
-- [Transacciones y Concurrencia: lo que deberías saber](https://hernan941.com/posts/concurrencia/)
-- [Docker 101: contenedores, kernel y capas](https://hernan941.com/posts/docker101/)
-- [Lo que no va a reemplazar la IA](https://hernan941.com/posts/lo-que-no-va-a-reemplazar-la-ia/)
+- [On Learning](https://hernan941.com/en/posts/sobre-aprender/)
+- [I'm Using Claude Code](https://hernan941.com/en/posts/estoy-usando-claude/)
+- [Santiago, work and development](https://hernan941.com/en/posts/santiagotrabajo-y-desarrollo/)
 
 ---
 
